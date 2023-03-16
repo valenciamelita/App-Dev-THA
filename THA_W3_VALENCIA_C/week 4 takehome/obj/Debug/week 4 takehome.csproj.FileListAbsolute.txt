@@ -1,0 +1,12 @@
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\bin\Debug\week 4 takehome.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\bin\Debug\week 4 takehome.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\bin\Debug\week 4 takehome.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week 4 takehome.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week 4 takehome.csproj.SuggestedBindingRedirects.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week_4_takehome.mainwindowform.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week_4_takehome.Properties.Resources.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week 4 takehome.csproj.GenerateResource.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week 4 takehome.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week 4 takehome.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week 4 takehome.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 4 takehome\week 4 takehome\obj\Debug\week_4_takehome.secondwindowform.resources
